@@ -35,7 +35,7 @@ nonché agli enormi benefici di cui giova quotidianamente tutta l'umanità.
 
 Invitare il professor Koutsoyiannis, che si occupa prevalentemente di idrologia,
 a parlare di un tema lontano dal suo campo di studi è una scelta che riteniamo poco saggia,
-al netto della sua integrità scientifica [(6)[#6], (7)[#7]].
+al netto della sua integrità scientifica (discussa [qui](https://www.facebook.com/markfperrari/posts/10157127366504177) e [qui](http://ocasapiens-dweb.blogautore.repubblica.it/2019/11/01/il-contributo-di-unibo-alla-fantascienza-ellenica/)).
 
 Soprattutto a fronte delle affermazioni contenute nell'abstract
 
@@ -104,9 +104,7 @@ Env. Res. Lett. 11 (2016) doi:10.1088/1748-9326/11/4/048002
 [5] https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-
 public/ckeditor/files/United_in_Science_ReportFINAL_0.pdf Science Advisory Group of the UN Climate
 Action Summit , United In Science: high-level synthesis report of latest climate science information, 2019
-[6] https://www.facebook.com/markfperrari/posts/10157127366504177 Marco Ferrari (post su facebook)
-[7] http://ocasapiens-dweb.blogautore.repubblica.it/2019/11/01/il-contributo-di-unibo-alla-fantascienza-
-ellenica/ S. Coyaud, Il contributo di UniBo alla fantascienza ellenica, d.repubblica.it, 1 nov 2019
+
 [8] D. Koutsoyiannis et al. (2008) On the credibility of climate predictions, Hydrological Sciences
 Journal,53:4, 671-684, DOI: 10.1623/hysj.53.4.671
 [9] David Huard (2011) Discussion of “A comparison of local and aggregated climate model outputs with
