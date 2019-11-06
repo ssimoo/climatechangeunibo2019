@@ -38,7 +38,7 @@ Soprattutto a fronte delle affermazioni contenute nell'abstract
 
 > A fortiori, the predictions of these models for the future cannot be trusted.
 
-Come riportato in [(7)[#7]],
+Come riportato in [qui](http://ocasapiens-dweb.blogautore.repubblica.it/2019/11/01/il-contributo-di-unibo-alla-fantascienza-ellenica/),
 l’articolo del relatore che ne proverebbe le tesi [[4](#4)] è stato pubblicato su una rivista di idrologia e non di climatologia, di cui peraltro egli è editore (!).
 Ora,
 sottoporre uno studio di climatologia ai revisori,
