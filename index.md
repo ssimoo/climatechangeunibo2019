@@ -6,19 +6,18 @@ layout: default
 
 È con immenso stupore e una certa dose di sconcerto che apprendiamo della lecture organizzata dall'Istituto
 di Studi Superiori (ISA) dell'Università di Bologna intitolata ["Climate is changing... since 4.5 billion years
-ago"](http://www.isa.unibo.it/en/events/26-nov-lecture-by-demetris-koutsoyiannis-national-technical-university-of-
-athens-greece-2019).
-
+ago"](http://www.isa.unibo.it/en/events/26-nov-lecture-by-demetris-koutsoyiannis-national-technical-university-of-athens-greece-2019).
 
 Risulta immediatamente evidente, già dall’abstract di tale presentazione, come il relatore, il professor Demetris Koutsoyiannis del Politecnico di Atene sostenga tesi comunemente definite di *negazionismo climatico*,
 ovvero volte a negare o minimizzare l’impatto dell’uomo nei recenti cambiamenti climatici.
 Tali tesi sono in netto contrasto con le evidenze sperimentali raccolte negli ultimi decenni e con quanto sostenuto
-dalla comunità scientifica in merito [1](#1)[1-4].
+dalla comunità scientifica in merito [[1](#1), [2](#2), [3](#3), [4](#4)].
 
 
-Il recente report congiunto delle principali organizzazioni
-internazionali dedicate allo studio dei cambiamenti climatici afferma che “consolidated evidence reinforces
-human influence as the dominant cause of changes to the Earth system.” [5]
+Il recente report congiunto delle principali organizzazioni internazionali dedicate allo studio dei cambiamenti climatici afferma [(5)[#5]]
+
+> consolidated evidence reinforces human influence as the dominant cause of changes to the Earth system.
+
 Non è nostra intenzione suggerire che si debbano censurare le voci in contrasto con l’opinione maggioritaria,
 né desideriamo, da ricercatori o aspiranti tali, negare l’importanza del dibattito scientifico nelle questioni più
 controverse. Al contrario, proprio perchè il dibattito è di fondamentale importanza e svolge un ruolo centrale
