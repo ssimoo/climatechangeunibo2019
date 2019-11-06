@@ -46,7 +46,7 @@ Soprattutto a fronte delle affermazioni contenute nell'abstract
 > A fortiori, the predictions of these models for the future cannot be trusted.
 
 Come riportato in [(7)[#7]],
-l’articolo del relatore che ne proverebbe le tesi [[8](#8)] è stato pubblicato su una rivista di idrologia e non di climatologia, di cui peraltro egli è editore (!).
+l’articolo del relatore che ne proverebbe le tesi [[4](#4)] è stato pubblicato su una rivista di idrologia e non di climatologia, di cui peraltro egli è editore (!).
 
 Ora,
 sottoporre uno studio di climatologia ai revisori,
@@ -54,7 +54,7 @@ idrologi anch’essi è come chiedere a degli esperti di
 letteratura russa di valutare un saggio sulla poesia latina.
 
 Data dunque la serie di inesattezze e falsità riportate,
-e le leggerezze metodologiche degli studi del professor Koutsoyiannis (contestate in [[9](#9)])),
+e le leggerezze metodologiche degli studi del professor Koutsoyiannis (contestate in [[5](#5)]),
 non sembra affatto che egli conosca in modo dettagliato [gli argomenti che propone di discutere](https://informa.airicerca.org/it/2019/07/02/cinque-domande-comuni-cambiamento-climatico/).
 
 È lecito quindi domandarsi quali criteri siano stati adotatti dall’ISA nel selezionare uno speaker che appare estremamente inadeguato a sostenere una conferenza scientifica di climatologia,
@@ -106,12 +106,12 @@ Science Advisory Group of the UN Climate Action Summit:
 [**United In Science: high-level synthesis report of latest climate science information**](https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/United_in_Science_ReportFINAL_0.pdf),
 2019
 
-#### 8
+#### 4
 D. Koutsoyiannis et al.:
 [**On the credibility of climate predictions**](https://doi.org/10.1623/hysj.53.4.671),
 Hydrological Sciences Journal,53:4, 671-684, (2008) doi:10.1623/hysj.53.4.671
 
-#### 9
+#### 5
 David Huard:
 [**Discussion of “A comparison of local and aggregated climate model outputs with observed data” A black eye for the Hydrological Sciences Journal**](https://doi.org/10.1080/02626667.2011.610758)
 Hydrological Sciences Journal, 56:7, 1330-1333 (2011), doi:10.1080/02626667.2011.610758
