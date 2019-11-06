@@ -64,19 +64,28 @@ Né mancano le competenze per rendersi conto dell’errore: il Dipartimento di F
 
 ### Opportunità
 
-Il secondo aspetto riguarda il contesto e l’opportunità di ospitare conferenze simili. In un epoca in cui la
-fiducia nella scienza e negli scienziati è in uno stato precario presso il grande pubblico, la questione delle
-pseudoscienze va affrontata con particolare delicatezza. Ospitare, come ISA e come UniBo, eventi di questo
-tipo in nome di una presunta libertà di pensiero offre il fianco, in buona o cattiva fede, al negazionismo
-climatico e a facili strumentalizzazioni, esponendo l’Ateneo a future (comprensibili) critiche. Il messaggio
-principale che viene veicolato, più o meno inconsciamente, utilizzando il nome dell’Ateneo è che, dato che
-tesi simili vengono dibattute persino all’interno delle aule dell’Università di Bologna, allora esiste un dibattito
-sulle cause antropogeniche del riscaldamento globale. Dibattito che, tra gli esperti, non esiste affatto. Il fatto
-che l’Università di Bologna, usando fondi dell’ISA, inviti a parlare chi sostiene simili tesi è un controsenso,
-visto il lodevole impegno di Unibo sui temi della sostenibilità ambientale. Dal punto di vista comunicativo
-questo è un grave errore che rischia di confondere chi è interessato alla questione, vanificando il prezioso
-lavoro di divulgazione scientifica [10, 11] che tanti svolgono nel tentativo di arginare la sempre presente
-disinformazione.
+Il secondo aspetto riguarda il contesto e l’opportunità di ospitare conferenze simili.
+In un epoca in cui la fiducia nella scienza e negli scienziati è in uno stato precario presso il grande pubblico,
+la questione delle pseudoscienze va affrontata con particolare delicatezza.
+
+Ospitare, come ISA e come UniBo, eventi di questo tipo in nome di una presunta libertà di pensiero offre il fianco,
+in buona o cattiva fede,
+al negazionismo climatico e a facili strumentalizzazioni,
+esponendo l’Ateneo a future (comprensibili) critiche.
+Il messaggio principale che viene veicolato,
+più o meno inconsciamente,
+utilizzando il nome dell’Ateneo è che,
+dato che tesi simili vengono dibattute persino all’interno delle aule dell’Università di Bologna,
+allora esiste un dibattito sulle cause antropogeniche del riscaldamento globale.
+
+Dibattito che, tra gli esperti, non esiste affatto.
+
+Il fatto che l’Università di Bologna, usando fondi dell’ISA,
+inviti a parlare chi sostiene simili tesi è un controsenso,
+visto il lodevole impegno di Unibo sui temi della sostenibilità ambientale.
+
+Dal punto di vista comunicativo questo è un grave errore che rischia di confondere chi è interessato alla questione,
+vanificando il prezioso lavoro di [divulgazione](https://informa.airicerca.org/it/2019/07/02/cinque-domande-comuni-cambiamento-climatico) [scientifica](https://www.facebook.com/NextSolarStorm/videos/1351030165034889/) che tanti svolgono nel tentativo di arginare la sempre presente disinformazione.
 
 Riferimenti:
 
@@ -100,7 +109,3 @@ Journal,53:4, 671-684, DOI: 10.1623/hysj.53.4.671
 [9] David Huard (2011) Discussion of “A comparison of local and aggregated climate model outputs with
 observed data” A black eye for the Hydrological Sciences Journal, Hydrological Sciences Journal, 56:7,
 1330-1333, DOI: 10.1080/02626667.2011.610758
-[10] https://informa.airicerca.org/it/2019/07/02/cinque-domande-comuni-cambiamento-climatico/ D. Visioni,
-Cinque domande comuni sul cambiamento climatico, AIRInforma, 2 lug 2019
-[11] https://www.facebook.com/NextSolarStorm/videos/1351030165034889/ Il riscaldamento globale è
-causato dall&#39;uomo, Chi ha paura del buio?, video, 10’, mar 2019
