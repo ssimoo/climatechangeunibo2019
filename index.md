@@ -87,11 +87,14 @@ visto il lodevole impegno di Unibo sui temi della sostenibilità ambientale.
 Dal punto di vista comunicativo questo è un grave errore che rischia di confondere chi è interessato alla questione,
 vanificando il prezioso lavoro di [divulgazione](https://informa.airicerca.org/it/2019/07/02/cinque-domande-comuni-cambiamento-climatico) [scientifica](https://www.facebook.com/NextSolarStorm/videos/1351030165034889/) che tanti svolgono nel tentativo di arginare la sempre presente disinformazione.
 
-Riferimenti:
+## Riferimenti
 
 #### 1
-Santer, B.D., Bonfils, C.J.W., Fu, Q. et al. Celebrating the anniversary of three key events in climate
-change science. Nat. Clim. Chang. 9, 180–182 (2019) doi:10.1038/s41558-019-0424-x
+Santer, B.D., Bonfils, C.J.W., Fu, Q. et al.
+[**Celebrating the anniversary of three key events in climate change science.**](https://doi.org/10.1038/s41558-019-0424-x)
+Nat. Clim. Chang. 9, 180–182 (2019) doi:10.1038/s41558-019-0424-x
+
+
 [2] https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002 Cook, J. et al., Consensus on
 consensus: a synthesis of consensus estimates on human-caused global warming, Env. Res. Lett. 11 (2016)
 [3] https://www.reuters.com/article/us-climatechange-temperatures/evidence-for-man-made-global-warming-
