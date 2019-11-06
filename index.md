@@ -2,6 +2,8 @@
 layout: default
 ---
 
+### Se desideri firmare la lettera, [clicka qui]().
+
 # Lettera Aperta: cambiamento climatico e ISA lecture
 
 È con immenso stupore e una certa dose di sconcerto che apprendiamo della lecture organizzata dall'Istituto
@@ -19,30 +21,49 @@ Il recente report congiunto delle principali organizzazioni internazionali dedic
 > consolidated evidence reinforces human influence as the dominant cause of changes to the Earth system.
 
 Non è nostra intenzione suggerire che si debbano censurare le voci in contrasto con l’opinione maggioritaria,
-né desideriamo, da ricercatori o aspiranti tali, negare l’importanza del dibattito scientifico nelle questioni più
-controverse. Al contrario, proprio perchè il dibattito è di fondamentale importanza e svolge un ruolo centrale
-nella comunità scientifica riteniamo necessario evidenziare due aspetti chiave di questa vicenda.
-Il primo punto è di merito. Il dibattito scientifico, per potersi dire tale e quindi essere ospitato presso la
-prestigiosa sede dell&#39;Alma Mater, deve seguire le regole e i criteri che la comunità scientifica ha sviluppato e
-affinato nel corso degli anni e che hanno portato agli incredibili risultati dei quali la scienza e la tecnica
-moderne possono farsi vanto, nonché agli enormi benefici di cui giova quotidianamente tutta l&#39;umanità.
-Invitare il professor Koutsoyiannis, che si occupa prevalentemente di idrologia, a parlare di un tema lontano
-dal suo campo di studi è una scelta che riteniamo poco saggia, al netto della sua integrità scientifica [6,7].
-Soprattutto a fronte delle affermazioni contenute nell&#39;abstract (&quot;The scaremongering on &quot;climate change&quot; and
-the disasters it will allegedly cause is mainly associated with socio-political and economic interests, rather
-than with scientific data.&quot;, &quot;The hypothesis that recent changes [...] is anthropogenic, unlike the natural
-changes which always have taken place, is not supported by evidence.&quot; &quot;A fortiori, the predictions of these
-models for the future cannot be trusted.&quot;). Come riportato da [7], l’articolo del relatore che ne proverebbe le
-tesi [8] è stato pubblicato su una rivista di idrologia e non di climatologia, di cui peraltro egli è editore(!). Ora,
-sottoporre uno studio di climatologia ai revisori, idrologi anch’essi è come chiedere a degli esperti di
-letteratura russa di valutare un saggio sulla poesia latina. Data dunque la serie di inesattezze e falsità
-riportate, e le leggerezze metodologiche degli studi del professor Koutsoyiannis (contestate [9]) non sembra
-affatto che egli conosca in modo dettagliato gli argomenti che propone di discutere [10]. È lecito quindi
-domandarsi quali criteri siano stati adotatti dall’ISA nel selezionare uno speaker che appare estremamente
-inadeguato a sostenere una conferenza scientifica di climatologia, per di più su un tema così sentito
-dall&#39;opinione pubblica. Né mancano le competenze per rendersi conto dell’errore: il Dipartimento di Fisica e
-Astronomia comprende un importante gruppo di ricerca sui temi atmosferici e climatici, mentre il Centro
-euro-mediterraneo per I cambiamenti climatici ha a Bologna una delle sue sedi.
+né desideriamo, da ricercatori o aspiranti tali,
+negare l’importanza del dibattito scientifico nelle questioni più controverse.
+
+Al contrario, proprio perchè il dibattito è di fondamentale importanza e svolge un ruolo centrale nella comunità scientifica riteniamo necessario evidenziare due aspetti chiave di questa vicenda.
+
+### Merito
+
+Il primo punto è di merito.
+Il dibattito scientifico, per potersi dire tale e quindi essere ospitato presso la prestigiosa sede dell'Alma Mater,
+deve seguire le regole e i criteri che la comunità scientifica ha sviluppato e affinato nel corso degli anni e che hanno portato agli incredibili risultati dei quali la scienza e la tecnica moderne possono farsi vanto,
+nonché agli enormi benefici di cui giova quotidianamente tutta l'umanità.
+
+Invitare il professor Koutsoyiannis, che si occupa prevalentemente di idrologia,
+a parlare di un tema lontano dal suo campo di studi è una scelta che riteniamo poco saggia,
+al netto della sua integrità scientifica [(6)[#6], (7)[#7]].
+
+Soprattutto a fronte delle affermazioni contenute nell'abstract
+
+> The scaremongering on "climate change" and the disasters it will allegedly cause is mainly associated with socio-political and economic interests, rather than with scientific data.
+
+> The hypothesis that recent changes [...] is anthropogenic, unlike the natural changes which always have taken place, is not supported by evidence.
+
+> A fortiori, the predictions of these models for the future cannot be trusted.
+
+Come riportato in [(7)[#7]],
+l’articolo del relatore che ne proverebbe le tesi [(8)[#8]] è stato pubblicato su una rivista di idrologia e non di climatologia, di cui peraltro egli è editore (!).
+
+Ora,
+sottoporre uno studio di climatologia ai revisori,
+idrologi anch’essi è come chiedere a degli esperti di
+letteratura russa di valutare un saggio sulla poesia latina.
+
+Data dunque la serie di inesattezze e falsità riportate,
+e le leggerezze metodologiche degli studi del professor Koutsoyiannis (contestate in [(9)[#9]])),
+non sembra affatto che egli conosca in modo dettagliato [gli argomenti che propone di discutere](https://informa.airicerca.org/it/2019/07/02/cinque-domande-comuni-cambiamento-climatico/).
+
+È lecito quindi domandarsi quali criteri siano stati adotatti dall’ISA nel selezionare uno speaker che appare estremamente inadeguato a sostenere una conferenza scientifica di climatologia,
+per di più su un tema così sentito dall'opinione pubblica.
+
+Né mancano le competenze per rendersi conto dell’errore: il Dipartimento di Fisica e Astronomia comprende un importante gruppo di ricerca sui temi atmosferici e climatici, mentre il Centro Euro-Mediterraneo per i Cambiamenti Climatici ha a Bologna una delle sue sedi.
+
+### Opportunità
+
 Il secondo aspetto riguarda il contesto e l’opportunità di ospitare conferenze simili. In un epoca in cui la
 fiducia nella scienza e negli scienziati è in uno stato precario presso il grande pubblico, la questione delle
 pseudoscienze va affrontata con particolare delicatezza. Ospitare, come ISA e come UniBo, eventi di questo
