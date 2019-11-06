@@ -90,13 +90,17 @@ vanificando il prezioso lavoro di [divulgazione](https://informa.airicerca.org/i
 ## Riferimenti
 
 #### 1
-Santer, B.D., Bonfils, C.J.W., Fu, Q. et al.
-[**Celebrating the anniversary of three key events in climate change science.**](https://doi.org/10.1038/s41558-019-0424-x)
+Santer, B.D., Bonfils, C.J.W., Fu, Q. et al.:
+[**Celebrating the anniversary of three key events in climate change science.**](https://doi.org/10.1038/s41558-019-0424-x),
 Nat. Clim. Chang. 9, 180–182 (2019) doi:10.1038/s41558-019-0424-x
 
+#### 2
+Cook, J. et al.:
+[**Consensus on
+103
+consensus: a synthesis of consensus estimates on human-caused global warming**](https://doi.org/10.1088/1748-9326/11/4/048002),
+Env. Res. Lett. 11 (2016) doi:10.1088/1748-9326/11/4/048002
 
-[2] https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002 Cook, J. et al., Consensus on
-consensus: a synthesis of consensus estimates on human-caused global warming, Env. Res. Lett. 11 (2016)
 [3] https://www.reuters.com/article/us-climatechange-temperatures/evidence-for-man-made-global-warming-
 hits-gold-standard-scientists-idUSKCN1QE1ZU A. Doyle, Evidence for man-made global warming hits &#39;gold
 standard&#39;: scientists. Reuters, 25 feb 2019
