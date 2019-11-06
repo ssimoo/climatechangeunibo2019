@@ -3,7 +3,7 @@ layout: default
 title: Cambiamento climatico e ISA lecture
 ---
 
-# Se desideri firmare la lettera, [clicka qui]().
+# Se desideri firmare la lettera, [clicka qui](https://github.com/DanySK/climatechangeunibo2019/edit/master/firmatari.md).
 
 È con immenso stupore e una certa dose di sconcerto che apprendiamo della lecture organizzata dall'Istituto
 di Studi Superiori (ISA) dell'Università di Bologna intitolata ["Climate is changing... since 4.5 billion years
@@ -72,6 +72,8 @@ visto il lodevole impegno di UniBo sui temi della sostenibilità ambientale.
 Dal punto di vista comunicativo questo è un grave errore che rischia di confondere chi è interessato alla questione,
 vanificando il prezioso lavoro di divulgazione scientifica (ad esempio portato avanti [qui](https://informa.airicerca.org/it/2019/07/02/cinque-domande-comuni-cambiamento-climatico) e [qui](https://www.facebook.com/NextSolarStorm/videos/1351030165034889/) che tanti svolgono nel tentativo di arginare la sempre presente disinformazione.
 
+## [Firmatari della lettera](firmatari)
+
 ## Riferimenti
 
 #### 1
@@ -100,3 +102,4 @@ Hydrological Sciences Journal,53:4, 671-684, (2008) doi:10.1623/hysj.53.4.671
 David Huard:
 [**Discussion of “A comparison of local and aggregated climate model outputs with observed data” A black eye for the Hydrological Sciences Journal**](https://doi.org/10.1080/02626667.2011.610758)
 Hydrological Sciences Journal, 56:7, 1330-1333 (2011), doi:10.1080/02626667.2011.610758
+
