@@ -3,7 +3,7 @@ layout: default
 title: Cambiamento climatico e ISA lecture
 ---
 
-# Se desideri firmare la lettera, [clicka qui](https://github.com/DanySK/climatechangeunibo2019/edit/master/firmatari.md).
+# [Voglio firmare la lettera](firmare).
 
 È con immenso stupore e una certa dose di sconcerto che apprendiamo della lecture organizzata dall'Istituto
 di Studi Superiori (ISA) dell'Università di Bologna intitolata ["Climate is changing... since 4.5 billion years
