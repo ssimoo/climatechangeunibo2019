@@ -16,7 +16,7 @@ Tali tesi sono in netto contrasto con le evidenze sperimentali raccolte negli ul
 dalla comunità scientifica](https://www.reuters.com/article/us-climatechange-temperatures/evidence-for-man-made-global-warming-hits-gold-standard-scientists-idUSKCN1QE1ZU) e [dall'Intergovernmental Panel on Climate Change](https://www.ipcc.ch/reports/) in merito [[1](#1), [2](#2)].
 
 
-Il recente report congiunto delle principali organizzazioni internazionali dedicate allo studio dei cambiamenti climatici afferma [(5)[#5]]
+Il recente report congiunto delle principali organizzazioni internazionali dedicate allo studio dei cambiamenti climatici afferma [(3)[#3]]
 
 > consolidated evidence reinforces human influence as the dominant cause of changes to the Earth system.
 
@@ -101,9 +101,10 @@ Cook, J. et al.:
 consensus: a synthesis of consensus estimates on human-caused global warming**](https://doi.org/10.1088/1748-9326/11/4/048002),
 Env. Res. Lett. 11 (2016) doi:10.1088/1748-9326/11/4/048002
 
-[5] https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-
-public/ckeditor/files/United_in_Science_ReportFINAL_0.pdf Science Advisory Group of the UN Climate
-Action Summit , United In Science: high-level synthesis report of latest climate science information, 2019
+#### 3
+Science Advisory Group of the UN Climate Action Summit:
+[**United In Science: high-level synthesis report of latest climate science information**](https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/United_in_Science_ReportFINAL_0.pdf),
+2019
 
 [8] D. Koutsoyiannis et al. (2008) On the credibility of climate predictions, Hydrological Sciences
 Journal,53:4, 671-684, DOI: 10.1623/hysj.53.4.671
