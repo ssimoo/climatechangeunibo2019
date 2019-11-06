@@ -16,7 +16,7 @@ Tali tesi sono in netto contrasto con le evidenze sperimentali raccolte negli ul
 dalla comunità scientifica](https://www.reuters.com/article/us-climatechange-temperatures/evidence-for-man-made-global-warming-hits-gold-standard-scientists-idUSKCN1QE1ZU) e [dall'Intergovernmental Panel on Climate Change](https://www.ipcc.ch/reports/) in merito [[1](#1), [2](#2)].
 
 
-Il recente report congiunto delle principali organizzazioni internazionali dedicate allo studio dei cambiamenti climatici afferma [ (3)[#3]]
+Il recente report congiunto delle principali organizzazioni internazionali dedicate allo studio dei cambiamenti climatici afferma [ (3)[#3] ]
 
 > consolidated evidence reinforces human influence as the dominant cause of changes to the Earth system.
 
