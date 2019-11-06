@@ -12,8 +12,8 @@ ago"](http://www.isa.unibo.it/en/events/26-nov-lecture-by-demetris-koutsoyiannis
 
 Risulta immediatamente evidente, già dall’abstract di tale presentazione, come il relatore, il professor Demetris Koutsoyiannis del Politecnico di Atene sostenga tesi comunemente definite di *negazionismo climatico*,
 ovvero volte a negare o minimizzare l’impatto dell’uomo nei recenti cambiamenti climatici.
-Tali tesi sono in netto contrasto con le evidenze sperimentali raccolte negli ultimi decenni e con quanto sostenuto
-dalla comunità scientifica in merito [[1](#1), [2](#2), [3](#3), [4](#4)].
+Tali tesi sono in netto contrasto con le evidenze sperimentali raccolte negli ultimi decenni e con [quanto sostenuto
+dalla comunità scientifica](https://www.reuters.com/article/us-climatechange-temperatures/evidence-for-man-made-global-warming-hits-gold-standard-scientists-idUSKCN1QE1ZU) e [dall'Intergovernmental Panel on Climate Change](https://www.ipcc.ch/reports/) in merito [[1](#1), [2](#2)].
 
 
 Il recente report congiunto delle principali organizzazioni internazionali dedicate allo studio dei cambiamenti climatici afferma [(5)[#5]]
@@ -101,10 +101,6 @@ Cook, J. et al.:
 consensus: a synthesis of consensus estimates on human-caused global warming**](https://doi.org/10.1088/1748-9326/11/4/048002),
 Env. Res. Lett. 11 (2016) doi:10.1088/1748-9326/11/4/048002
 
-[3] https://www.reuters.com/article/us-climatechange-temperatures/evidence-for-man-made-global-warming-
-hits-gold-standard-scientists-idUSKCN1QE1ZU A. Doyle, Evidence for man-made global warming hits &#39;gold
-standard&#39;: scientists. Reuters, 25 feb 2019
-[4] https://www.ipcc.ch/reports/
 [5] https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-
 public/ckeditor/files/United_in_Science_ReportFINAL_0.pdf Science Advisory Group of the UN Climate
 Action Summit , United In Science: high-level synthesis report of latest climate science information, 2019
