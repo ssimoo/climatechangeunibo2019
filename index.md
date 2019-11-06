@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Lettera Aperta: cambiamento climatico e ISA lecture
+# Cambiamento climatico e ISA lecture
 
 ### Se desideri firmare la lettera, [clicka qui]().
 
